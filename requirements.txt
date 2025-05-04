@@ -1,0 +1,13 @@
+streamlit
+pandas
+torch
+numpy
+yfinance
+beautifulsoup4
+textblob
+requests
+transformers
+newspaper3k
+feedparser
+lxml
+lxml_html_clean
